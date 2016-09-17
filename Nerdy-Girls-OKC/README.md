@@ -1,0 +1,16 @@
+### Image design details
+- Logo_300x300.jpeg
+  - Background color: #FFFFFF
+  - Foreground colors:
+    - #4ECDC4
+    - #000000
+    - #E20B1D
+- Meetup-logo_364x150.jpeg
+  - Background color: #FFFFFF
+  - Foreground colors:
+    - #4ECDC4
+    - #000000
+    - #E20B1D
+  - Font:
+    - Color: #000000
+    - Font-family:
