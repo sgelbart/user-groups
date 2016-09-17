@@ -1,0 +1,20 @@
+### Image design details
+- Logo_1307x668.png
+  - Background color: transparent
+  - Font:
+    - Colors:
+      - #1CB6CB
+      - #4F798E
+      - #A3A3A3
+      - #FFFFFF (border)
+    - Font-family: 
+- Meetup-banner_960x150.jpeg
+  - Colors:
+    - #1CB6CB
+    - #4F798E
+    - #A3A3A3
+  - Font-family:
+- Meetup-logo_180x174.jpeg
+  - Background color: transparent
+  - Forecolor: #4F798E
+  - Border color: #FFFFFF
