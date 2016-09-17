@@ -1,0 +1,13 @@
+### Image design details
+- Logo_155x155.png
+  - Background color: #FFFFFF
+  - Gray font color: #6D6E71
+  - Red font color: #CC273E
+  - Blue font color: #399FD3
+  - Font:
+- Skyline_960x240.png
+  - Background color: #DDDDDD
+  - Black font color: #272A27
+  - White font color: #FFFFFF
+  - Blue font color: #0057A2
+  - Font:
