@@ -1,12 +1,19 @@
 ### Image design details
 - Logo_750x580.png
   - Background color: transparent
-  - Yellow color: #F3DF49
-  - Font color: #2E2E2C
+  - Graphic colors:
+    - #F3DF49
+    - #2E2E2C
+  - Font:
+    - Color:
+    - Font-family:
 - Meetup-banner_960x150.jpeg
   - Background color: #494949
-  - Logo color: #F8DC3E
-  - Logo font color: #000000
-  - Font color: #FFFFFF
-  - Font shadow color: #000000
+  - Graphic colors:
+    - #F8DC3E
+    - #000000
   - Font:
+    - Colors:
+      - #FFFFFF
+      - #000000
+    - Font-family:

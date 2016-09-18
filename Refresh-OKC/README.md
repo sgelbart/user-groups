@@ -6,15 +6,22 @@
       - #1CB6CB
       - #4F798E
       - #A3A3A3
-      - #FFFFFF (border)
+      - #FFFFFF
     - Font-family: 
 - Meetup-banner_960x150.jpeg
-  - Colors:
+  - Graphic colors:
     - #1CB6CB
+    - #FFFFFF
     - #4F798E
     - #A3A3A3
-  - Font-family:
+  - Font:
+    - Colors:
+      - #1CB6CB
+      - #4F798E
+      - #A3A3A3
+    - Font-family:
 - Meetup-logo_180x174.jpeg
   - Background color: transparent
-  - Forecolor: #4F798E
-  - Border color: #FFFFFF
+  - Graphic colors:
+    - #4F798E
+    - #FFFFFF
