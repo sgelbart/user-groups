@@ -1,4 +1,26 @@
-### Image design details
+**Group email:** 
+
+**Other Code of Conduct(s):** [Burlington Ruby](http://burlingtonruby.com/conduct.html)
+
+#### Urls:
+  - Event hub: [Meetup](http://www.meetup.com/OKC-Ruby/)
+  - Website: [okcruby.org](http://www.okcruby.org/)
+  - Social media:
+    - Facebook:
+      - ~~Group~~
+      - ~~Page~~
+    - G+:
+      - ~~G+ community~~
+      - ~~G+ organization page~~
+      - ~~G+ profile page~~
+    - [Google group](https://groups.google.com/forum/#!forum/okrb)
+    - ~~LinkedIn group~~
+    - [Twitter](https://twitter.com/okcrb)
+    - Youtube:
+      - ~~Account~~
+      - [Channel](https://www.youtube.com/channel/UCBUho-7G-toEuJzn6B0Yv-g)
+
+#### Image design details:
 - Logo_259x224.png
   - Background color: transparent
   - Graphic colors:

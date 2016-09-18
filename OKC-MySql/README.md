@@ -1,4 +1,26 @@
-### Image design details
+**Group email:** info@okcmysql.org
+
+Other Code of Conduct(s): N/A
+
+#### Urls:
+  - Event hub: [Meetup](http://www.meetup.com/Oklahoma-City-MySQL-Meetup/)
+  - Website: [okcmysql.org](http://okcmysql.org/)
+  - Social media:
+    - Facebook:
+      - ~~Group~~
+      - [Page](https://www.facebook.com/okcmysql)
+    - G+:
+      - ~~Community~~
+      - ~~Organization page~~
+      - ~~Profile page~~
+    - ~~Google group~~
+    - ~~LinkedIn group~~
+    - [Twitter](https://twitter.com/okcmysql)
+    - Youtube
+      - ~~Account~~
+      - ~~Channel~~
+
+#### Image design details:
 - Logo_180x96.jpeg
   - Background color: transparent
   - Graphic colors:

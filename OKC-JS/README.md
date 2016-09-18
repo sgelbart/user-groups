@@ -1,4 +1,26 @@
-### Image design details
+**Group email:oklahomacityjavascript@gmail.com
+
+Other Code of Conduct(s): N/A
+
+#### Urls:
+  - Event hub: [Meetup](https://www.meetup.com/OKC-js/)
+  - Website: [okcjs.com](http://okcjs.com/)
+  - Social media:
+    - Facebook:
+      - [Group](https://www.facebook.com/groups/155822154544231/)
+      - ~~Page~~
+    - G+:
+      - ~~Community~~
+      - ~~Organization page~~
+      - [Profile page](https://plus.google.com/105091596549912420394)
+    - ~~Google group~~
+    - ~~LinkedIn group~~
+    - [Twitter](https://twitter.com/okcjs)
+    - Youtube:
+      - [Account](https://www.youtube.com/user/OKCjs)
+      - ~~Channel~~
+
+#### Image design details:
 - Logo_750x580.png
   - Background color: transparent
   - Graphic colors:
