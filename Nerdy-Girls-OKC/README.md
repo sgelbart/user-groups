@@ -39,3 +39,12 @@
   - Font:
     - Color: #000000
     - Font-family: Atomic
+- nga-logo.ai
+  - Background color: #FFFFFF
+  - Graphic colors:
+    - 
+    - #000000
+    - #E20B1D
+  - Font:
+    - Color: #000000
+    - Font-family: Atomic
