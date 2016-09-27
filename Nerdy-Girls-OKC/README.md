@@ -1,4 +1,4 @@
-**Group email:** 
+**Group email:** ofi@nerdy-girls.org
 
 **Other Code of Conduct(s):** [Nerdy Girls - Nerdiquette](http://nerdy-girls.org/nerdiquette/) 
 
@@ -28,8 +28,8 @@
     - #000000
     - #E20B1D
   - Font:
-    - Color:
-    - Font-family:
+    ~~- Color:~~
+    ~~- Font-family:~~
 - Meetup-logo_364x150.jpeg
   - Background color: #FFFFFF
   - Graphic colors:
@@ -38,4 +38,4 @@
     - #E20B1D
   - Font:
     - Color: #000000
-    - Font-family:
+    - Font-family: Atomic
