@@ -1,4 +1,4 @@
-**Group email:** 
+**Group email:** ops@okcpython.org
 
 Other Code of Conduct(s): N/A
 
