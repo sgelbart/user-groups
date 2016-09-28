@@ -1,4 +1,4 @@
-**Group email:** 
+**Group email:** Chat@refreshokc.org
 
 Other Code of Conduct(s): N/A
 
