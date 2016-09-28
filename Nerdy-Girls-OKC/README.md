@@ -42,7 +42,7 @@
 - nga-logo.ai
   - Background color: #FFFFFF
   - Graphic colors:
-    - 
+    - #894B9E
     - #000000
     - #E20B1D
   - Font:
