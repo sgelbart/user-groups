@@ -1,4 +1,4 @@
-**Group email:oklahomacityjavascript@gmail.com
+**Group email:** oklahomacityjavascript@gmail.com
 
 Other Code of Conduct(s): N/A
 
