@@ -1,4 +1,4 @@
-**Group email:** 
+**Group email:** private email addresses for [groovecoder](https://github.com/groovecoder) and [jdungan](https://github.com/jdungan)
 
 Other Code of Conduct(s): N/A
 
