@@ -1,6 +1,6 @@
-**Group email:** 
+Group email: captains@codefortulsa.org
 
-**Other Code of Conduct(s):** [Code for America](https://github.com/codefortulsa/codeofconduct/blob/master/README.md) 
+Other Code of Conduct(s): [Code for America](https://github.com/codefortulsa/codeofconduct/blob/master/README.md) 
 
 #### Urls:
   - Event hub: [Meetup](http://www.meetup.com/Code-for-Tulsa/)
