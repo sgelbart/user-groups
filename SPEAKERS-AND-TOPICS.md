@@ -4,6 +4,12 @@ When a user group organizer is recruiting for a meetup presentation,
 they can use this file to see speakers who have ready-made presentations,
 so they can more quickly and easily find a presenter.
 
+Please add your own topics and a speaker bio in the sections below.
+
+To prevent you from getting speaking requests for old/stale presentations,
+please only add topics that are either timeless (e.g., algorithms),
+or topics for which you intend to keep up-to-date slide decks.
+
 ## Topics, Speaker
 
 * Productive Programmer, Luke Crouch
