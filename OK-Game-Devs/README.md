@@ -12,12 +12,12 @@ Other Code of Conduct(s): N/A
         - https://www.facebook.com/groups/okgamedevs/
       - ~~Page~~
     - G+:
-      - [Community](https://plus.google.com/u/0/communities/100637854287035489565)
+      - ~~Community~~
       - ~~Organization page~~
       - ~~Profile page~~
     - ~~Google group~~
-    - [LinkedIn group](https://www.linkedin.com/groups/1846678/profile)
-    - [Twitter](https://twitter.com/OKGameDevs)
+    - ~~LinkedIn group~~
+    - ~~Twitter~~
     - Youtube:
       - ~~Account~~
       - ~~Channel~~
