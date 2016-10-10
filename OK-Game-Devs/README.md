@@ -1,4 +1,4 @@
-**Group email:** 
+Group email: Private email for [@GoldFireStudios](https://twitter.com/GoldFireStudios)
 
 Other Code of Conduct(s): N/A
 
@@ -34,4 +34,4 @@ Other Code of Conduct(s): N/A
     - Colors:
       - #FFFFFF
       - #8AB5E8
-    - Font-family:
+    - Font-family: Myriad Pro Bold, 26px
