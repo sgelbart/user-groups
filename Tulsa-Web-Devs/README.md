@@ -3,7 +3,7 @@
 Other Code of Conduct(s): N/A
 
 #### Urls:
-  - Event hub: [Google calendar]( https://calendar.google.com/calendar/embed?src=hablm4p7eoaknvtugr91o11sv4@group.calendar.google.com)
+  - Event hub: [Meetup](https://www.meetup.com/Tulsa-Web-Devs/)
   - Website: [tulsawebdevs.org](http://tulsawebdevs.org/)
   - Social media:
     - Facebook:
