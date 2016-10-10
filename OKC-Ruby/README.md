@@ -1,6 +1,6 @@
-**Group email:** 
+Group email: team@okcruby.org
 
-**Other Code of Conduct(s):** [Burlington Ruby](http://burlingtonruby.com/conduct.html)
+Other Code of Conduct(s): [Burlington Ruby](http://burlingtonruby.com/conduct.html)
 
 #### Urls:
   - Event hub: [Meetup](http://www.meetup.com/OKC-Ruby/)
