@@ -1,4 +1,4 @@
-**Group email:** info@okcmysql.org
+Group email: mike@okcmysql.org
 
 Other Code of Conduct(s): N/A
 
