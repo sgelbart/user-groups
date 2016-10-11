@@ -1,4 +1,4 @@
-**Group email:** 
+Group email: Private email for [@wassimk](https://twitter.com/wassimk)
 
 Other Code of Conduct(s): N/A
 
@@ -25,6 +25,6 @@ Other Code of Conduct(s): N/A
   - Background color: transparent
   - Graphic colors:
     - #A81501
-  - Font:
-    - Color:
-    - Font-family:
+  ~~- Font:~~
+    ~~- Color:~~
+    ~~- Font-family:~~
