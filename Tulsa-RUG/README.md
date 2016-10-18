@@ -25,6 +25,6 @@ Other Code of Conduct(s): N/A
   - Background color: transparent
   - Graphic colors:
     - #A81501
-  ~~- Font:~~
-    ~~- Color:~~
-    ~~- Font-family:~~
+  - ~~Font:~~
+    - ~~Color:~~
+    - ~~Font-family:~~
