@@ -21,8 +21,6 @@ Other Code of Conduct(s): N/A
         - ~~Channel~~
 
 #### Image design details:
-
-
 Fonts:
 
 * Open Sans Semibold
@@ -32,7 +30,5 @@ Fonts:
 Colors:
 
 * \#fc6e51
-
 * \#e9573f
-
 * \#333333
