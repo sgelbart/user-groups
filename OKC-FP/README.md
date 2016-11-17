@@ -28,4 +28,4 @@ Other Code of Conduct(s): N/A
     - #759FCE
   - Font:
     - ~~Color:~~
-    - ~~Font-family: [Open Sans] (https://fonts.google.com/specimen/Open+Sans)~~
+    - ~~Font-family:~~
