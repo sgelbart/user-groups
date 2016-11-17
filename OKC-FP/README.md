@@ -21,8 +21,11 @@ Other Code of Conduct(s): N/A
       - ~~Channel~~
 
 #### Image design details:
-- Logo_439x85.png
+- logo_575x575.png
   - Background color: #FFFFFF
+  - Graphic colors:
+    - #3767A3
+    - #759FCE
   - Font:
-    - Color: #222222
-    - Font-family: [Open Sans] (https://fonts.google.com/specimen/Open+Sans)
+    - ~~Color:~~
+    - ~~Font-family: [Open Sans] (https://fonts.google.com/specimen/Open+Sans)~~
