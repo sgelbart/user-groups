@@ -21,3 +21,8 @@ Other Code of Conduct(s): N/A
       - ~~Channel~~
 
 #### Image design details:
+- Logo_1000x1000.png
+  - Graphic colors:
+  - Font:
+    - Color:
+    - Font-family:
