@@ -26,6 +26,18 @@ or topics for which you intend to keep up-to-date slide decks.
   * Many people only know a fraction of what the databases they use on a daily basis can do.  This topic covers a variety of lesser-known topics in PostgreSQL including replication, full-text searching, fuzzy searching, tuning, strange indexes, and strange column types.
 * Computer Science and its Interrelationship with Philosophy and Theology, Jonathan Bartlett
   * Most people don't realize that the concept of computing was built to solve philosophical questions rather than business issues.  This talk follows the work of Gödel, Turing, Chaitin, and others who have continued the conversation regarding the philosophical and theological insights that computer science has to offer.
+* Intro to Continuous Delivery, Ryan Hoegg
+  * Continuous delivery is a central theme in the DevOps movement, and certainly a central component of the culture. It is the set of engineering techniques, practices, processes, and tools for releasing changes to software services frequently and reliably.
+* Microservices and Me, Ryan Hoegg
+  * What are microservices, and why would we want to design things this way?
+* Designing RESTful web services, Ryan Hoegg
+  * REST is the architectural style that makes the web what it is. We now use it to make our own software as resilient as the internet itself. This talk explains why REST is good for your software, and how to design RESTful services.
+* Messaging with AMQP, Ryan Hoegg
+  * AMQP is a message queueing protocol that your applications can use to communicate.  I cover the different messaging patterns available through AMQP, when you might use them, and explore some extensions available when using RabbitMQ
+* Reliable Software, Ryan Hoegg
+  * Reliability is one aspect of software that everyone wants, some promise, and few achieve. We can confidently keep our reliability promises if we methodically plan for reliability in our software design. This talk explores the real meaning of reliability, andd methods to achieve it, through a story about a somewhat fictional project.
+* Test Driven Infrastructure, Ryan Hoegg
+  * Our servers, networks, and complete production environments can be delivered using many of the same techniques we've been successful with in software development.  This talk is a technical demonstration using Test Kitchen (http://kitchen-ci.org/) to build a production environment using automated tests.
 
   
 ## Speaker, Bio
