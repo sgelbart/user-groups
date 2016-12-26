@@ -15,6 +15,7 @@ Other Code of Conduct(s): N/A
       - ~~G+ profile page~~
     - ~~Google group~~
     - ~~LinkedIn group~~
+    - ~~Tumblr~~
     - [Twitter](https://twitter.com/okcsharp/)
     - Youtube:
       - ~~Account~~

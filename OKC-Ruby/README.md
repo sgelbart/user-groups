@@ -15,6 +15,7 @@ Other Code of Conduct(s): [Burlington Ruby](http://burlingtonruby.com/conduct.ht
       - ~~G+ profile page~~
     - [Google group](https://groups.google.com/forum/#!forum/okrb)
     - ~~LinkedIn group~~
+    - ~~Tumblr~~
     - [Twitter](https://twitter.com/okcrb)
     - Youtube:
       - ~~Account~~
