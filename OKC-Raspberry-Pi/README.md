@@ -1,10 +1,10 @@
 **Group email:** 
 
-Other Code of Conduct(s): N/A
+Other Code of Conduct(s): N/A 
 
 #### Urls:
-  - Event hub: [Meetup](http://www.meetup.com/OklahomaPHP/)
-  - Website: N/A
+  - Event hub: [Meetup](https://www.meetup.com/OKC-Raspberry-Pi-Meetup/)
+  - ~~Website:~~ 
   - Social media:
     - Facebook:
       - ~~Group~~
@@ -16,17 +16,9 @@ Other Code of Conduct(s): N/A
     - ~~Google group~~
     - ~~LinkedIn group~~
     - ~~Tumblr~~
-    - [Twitter](https://twitter.com/OklahomaPHP)
+    - [Twitter](https://twitter.com/okcrpi)
     - Youtube:
       - ~~Account~~
       - ~~Channel~~
 
 #### Image design details:
-- Logo_73x73.jpeg
-  - Graphic colors:
-    - #92A9EC
-    - #ADACAA
-    - #FFFFFF
-  - Font:
-    - Color:
-    - Font-family:

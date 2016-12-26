@@ -15,6 +15,7 @@
       - ~~Profile page~~
     - ~~Google group~~
     - ~~LinkedIn group~~
+    - ~~Tumblr~~
     - [Twitter](https://twitter.com/codeforokc)
     - Youtube:
       - ~~Account~~

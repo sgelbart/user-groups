@@ -15,6 +15,7 @@ Other Code of Conduct(s): N/A
       - [Profile page](https://plus.google.com/105091596549912420394)
     - ~~Google group~~
     - ~~LinkedIn group~~
+    - ~~Tumblr~~
     - [Twitter](https://twitter.com/okcjs)
     - Youtube:
       - [Account](https://www.youtube.com/user/OKCjs)

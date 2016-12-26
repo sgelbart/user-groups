@@ -1,10 +1,10 @@
-**Group email:** okcfp@techlahoma.org
+Group email: president@okcsql.org
 
-Other Code of Conduct(s): N/A
+Other Code of Conduct(s): N/A 
 
 #### Urls:
-  - Event hub: [Meetup](http://www.meetup.com/OKC-FP/)
-  - Website: [okcfp.com](http://okcfp.com/)
+  - Event hub: [Meetup](https://www.meetup.com/OKCSQL/)
+  - Website: [okcsql.org](http://okcsql.org) 
   - Social media:
     - Facebook:
       - ~~Group~~
@@ -16,17 +16,19 @@ Other Code of Conduct(s): N/A
     - ~~Google group~~
     - ~~LinkedIn group~~
     - ~~Tumblr~~
-    - [Twitter](https://twitter.com/fp_okc)
+    - [Twitter](https://twitter.com/OkcSql)
     - Youtube:
       - ~~Account~~
       - ~~Channel~~
 
 #### Image design details:
-- logo_575x575.png
+#### Image design details:
+- Logo_400x400.png:
   - Background color: #FFFFFF
   - Graphic colors:
-    - #3767A3
-    - #759FCE
+    - #3166F4
+    - #1840CC
+    - #000000
   - Font:
-    - ~~Color:~~
-    - ~~Font-family:~~
+    - Color: #000000
+    - Font-family:

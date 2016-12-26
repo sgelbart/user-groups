@@ -17,6 +17,7 @@ Other Code of Conduct(s): N/A
       - ~~Profile page~~
     - ~~Google group~~
     - ~~LinkedIn group~~
+    - ~~Tumblr~~
     - ~~Twitter~~
     - Youtube:
       - ~~Account~~

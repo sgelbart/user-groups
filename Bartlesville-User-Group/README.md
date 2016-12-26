@@ -1,10 +1,10 @@
 **Group email:** 
 
-Other Code of Conduct(s): N/A
+Other Code of Conduct(s): N/A 
 
 #### Urls:
-  - Event hub: [Meetup](http://www.meetup.com/OklahomaPHP/)
-  - Website: N/A
+  - Event hub: [Meetup](https://www.meetup.com/Bartlesville-User-Group/)
+  - ~~Website:~~ 
   - Social media:
     - Facebook:
       - ~~Group~~
@@ -14,19 +14,11 @@ Other Code of Conduct(s): N/A
       - ~~Organization page~~
       - ~~Profile page~~
     - ~~Google group~~
-    - ~~LinkedIn group~~
+    - [LinkedIn group](https://www.linkedin.com/groups/105849/profile)
     - ~~Tumblr~~
-    - [Twitter](https://twitter.com/OklahomaPHP)
+    - ~~Twitter~~
     - Youtube:
       - ~~Account~~
       - ~~Channel~~
 
 #### Image design details:
-- Logo_73x73.jpeg
-  - Graphic colors:
-    - #92A9EC
-    - #ADACAA
-    - #FFFFFF
-  - Font:
-    - Color:
-    - Font-family:
