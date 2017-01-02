@@ -3,7 +3,7 @@
 Other Code of Conduct(s): N/A
 
 #### Urls:
-  - Event hub: [Meetup](http://www.meetup.com/OklahomaPHP/)
+  - Event hub: [Meetup](https://www.meetup.com/OKCPHP/)
   - Website: N/A
   - Social media:
     - Facebook:
