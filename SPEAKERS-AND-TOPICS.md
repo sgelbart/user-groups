@@ -42,7 +42,7 @@ or topics for which you intend to keep up-to-date slide decks.
   
 ## Speaker, Bio
 
-* Luke Crouch
+* Luke Crouch (contact: luke dot crouch at gmail dot com)
   * Web Developer for @mozilla, co-founder of @codesyio, collaborator on @tulsawebdevs, @codefortulsa, and @techlahoma; husband, dad; crossfit, homebrew, soccer fan
 * Jonathan Bartlett
   * Chief Nerd in Charge at New Medio; author of several books on computer programming; coordinator for TulsaWebDevs; homeschool co-op instructor; director of The Blyth Institute; Masters in Theology from Phillips Theological Seminary
