@@ -1,10 +1,10 @@
-**Group email:** 
+**Group email:**
 
-Other Code of Conduct(s): N/A 
+Other Code of Conduct(s): N/A
 
 #### Urls:
-  - Event hub: [Meetup](https://www.meetup.com/OKC-Raspberry-Pi-Meetup/)
-  - ~~Website:~~ 
+  - Event hub: [Meetup](https://www.meetup.com/OKC-OSH/)
+  - ~~Website:~~
   - Social media:
     - Facebook:
       - ~~Group~~
@@ -16,7 +16,7 @@ Other Code of Conduct(s): N/A
     - ~~Google group~~
     - ~~LinkedIn group~~
     - ~~Tumblr~~
-    - [Twitter](https://twitter.com/okcrpi)
+    - [Twitter](https://twitter.com/okcosh)
     - Youtube:
       - ~~Account~~
       - ~~Channel~~
