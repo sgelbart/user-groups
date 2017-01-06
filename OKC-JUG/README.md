@@ -29,5 +29,5 @@ Other Code of Conduct(s): N/A
     - #ED1F27
   - Font:
     - Color: #ED1F27
-    - Font-family:
+    - Font-family: [Refrigerator](https://typekit.com/fonts/refrigerator-deluxe)
   - Artist credit: [@avasond](https://twitter.com/avasond)
