@@ -1,13 +1,4 @@
-**Group email:** 
-
-muskogee.webdev@gmail.com
-
-##### Organizer Emails
-
-- Sabrina Gelbart - sabrina.gelbart@gmail.com
-- Diana Varnes - diana@varnes.org
-- James Bell - james.bell@travelerbell.net 
-
+Group email: muskogee.webdev@gmail.com
 
 Other Code of Conduct(s): N/A 
 
