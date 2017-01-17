@@ -30,4 +30,4 @@ Other Code of Conduct(s): N/A
     - #00001C
   - Font:
     - Font-family:
-  - Artist: [@avasond](https://twitter.com/avasond)
+  - Artist credit: [@avasond](https://twitter.com/avasond)
