@@ -29,5 +29,5 @@ Other Code of Conduct(s): N/A
     - #0D1F34
     - #00001C
   - Font:
-    - Font-family:
+    - Font-family: [Acier BAT Text Noir](https://typekit.com/fonts/acier-bat/details/acier-bat-text-noir)
   - Artist credit: [@avasond](https://twitter.com/avasond)
