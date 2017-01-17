@@ -23,12 +23,11 @@ Other Code of Conduct(s): N/A
 
 #### Image design details:
 #### Image design details:
-- Logo_400x400.png:
+- Logo_270x270.png:
   - Background color: #FFFFFF
   - Graphic colors:
-    - #3166F4
-    - #1840CC
-    - #000000
+    - #0D1F34
+    - #00001C
   - Font:
-    - Color: #000000
     - Font-family:
+  - Artist: [@avasond](https://twitter.com/avasond)
