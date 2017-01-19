@@ -38,7 +38,14 @@ or topics for which you intend to keep up-to-date slide decks.
   * Reliability is one aspect of software that everyone wants, some promise, and few achieve. We can confidently keep our reliability promises if we methodically plan for reliability in our software design. This talk explores the real meaning of reliability, andd methods to achieve it, through a story about a somewhat fictional project.
 * Test Driven Infrastructure, Ryan Hoegg
   * Our servers, networks, and complete production environments can be delivered using many of the same techniques we've been successful with in software development.  This talk is a technical demonstration using Test Kitchen (http://kitchen-ci.org/) to build a production environment using automated tests.
-
+* Responsibility, Concerns, and Cohesion, Suamere
+  * There is a correlation between Separation of Concerns, and Coehesion.  There is a difference between Separation of Concerns and Single Responsibility Principle.  This talk details what each one is, and actual application of these principles in code.
+* Exceptions: Playing Catch / To Throw or Not To Throw, Suamere
+  * What if I told you that, in some codebases, I search CTRL+F for the word "catch" and, if any results come up, I fail code reviews.  There are strict times when you should ever use try/catch blocks.  This talk explains when you should Throw, Throw ex, or even catch in the first place.
+* Anemia: How Anemic is too Anemic?, Suamere
+  * The great Martin Fowler once wrote an article outlining why Anemic Domain Models are bad.  But what he was talking about was different than the Anemia we have today.  This talk outlines what Anemia means today, and why it is absolutely necessary in Service Oriented Architecture.
+* Advanced Regex in C# Flavor, Suamere
+  * This is a fun talk, if that's what you're into, about Regular Expressions in C#;  When to use them, How to use them, and some things C# Regex can do that no other Regex flavor can do.
   
 ## Speaker, Bio
 
@@ -46,3 +53,5 @@ or topics for which you intend to keep up-to-date slide decks.
   * Web Developer for @mozilla, co-founder of @codesyio, collaborator on @tulsawebdevs, @codefortulsa, and @techlahoma; husband, dad; crossfit, homebrew, soccer fan
 * Jonathan Bartlett
   * Chief Nerd in Charge at New Medio; author of several books on computer programming; coordinator for TulsaWebDevs; homeschool co-op instructor; director of The Blyth Institute; Masters in Theology from Phillips Theological Seminary
+* Suamere - Steven Fletcher
+  * Usually Independent Contractor, currently Enterprise Architect at Trevo, LLC.  Nerd since birth, Programmer for 20+ Years.  Purveyor of Principles.
