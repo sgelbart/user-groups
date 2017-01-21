@@ -21,7 +21,7 @@ or topics for which you intend to keep up-to-date slide decks.
 * An Introduction to Microcontrollers, Jonathan Bartlett
   * An introduction to the world of microcontrollers, what they do, and why we should care, focusing on the world of Arduino.  This is for groups who are generally unfamiliar with the embedded world and want to know more.  Flexible time, and can do versions of this talk that include more or less technical information about programming microcontrollers and/or the basics of electronics.
 * Building Scalable Web Applications Using the Cloud, Jonathan Bartlett
-  * A talk on the basics of making web architectures for scalability, including load balancers, caching, database replication, and programming in these environments.  Focused on developers who can build web applications but have kept to single-machine implementations.  Uses PHP, PostgreSQL, Linode, and AWS for its examples.  Based on a book by the same name. 
+  * A talk on the basics of making web architectures for scalability, including load balancers, caching, database replication, and programming in these environments.  Focused on developers who can build web applications but have kept to single-machine implementations.  Uses PHP, PostgreSQL, Linode, and AWS for its examples.  Based on a book by the same name.
 * Getting the Most Out of PostgreSQL, Jonathan Bartlett
   * Many people only know a fraction of what the databases they use on a daily basis can do.  This topic covers a variety of lesser-known topics in PostgreSQL including replication, full-text searching, fuzzy searching, tuning, strange indexes, and strange column types.
 * Computer Science and its Interrelationship with Philosophy and Theology, Jonathan Bartlett
@@ -46,7 +46,7 @@ or topics for which you intend to keep up-to-date slide decks.
   * The great Martin Fowler once wrote an article outlining why Anemic Domain Models are bad.  But what he was talking about was different than the Anemia we have today.  This talk outlines what Anemia means today, and why it is absolutely necessary in Service Oriented Architecture.
 * Advanced Regex in C# Flavor, Suamere
   * This is a fun talk, if that's what you're into, about Regular Expressions in C#;  When to use them, How to use them, and some things C# Regex can do that no other Regex flavor can do.
-  
+
 ## Speaker, Bio
 
 * Luke Crouch (contact: luke dot crouch at gmail dot com)
@@ -55,3 +55,5 @@ or topics for which you intend to keep up-to-date slide decks.
   * Chief Nerd in Charge at New Medio; author of several books on computer programming; coordinator for TulsaWebDevs; homeschool co-op instructor; director of The Blyth Institute; Masters in Theology from Phillips Theological Seminary
 * Suamere - Steven Fletcher
   * Usually Independent Contractor, currently Enterprise Architect at Trevo, LLC.  Nerd since birth, Programmer for 20+ Years.  Purveyor of Principles.
+* Carmen Long (twitter: @carmalou)
+  * Carmen is a JavaScript developer with experience in Angular, Ionic, and Electron. By day she writes desktop apps with Electron, and by night she builds twitterbots and plays board games. Carmen is a frequent speaker at OKC.js and runs the Nerdy Girls codeClub.

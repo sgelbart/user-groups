@@ -22,23 +22,3 @@ Other Code of Conduct(s): N/A
       - ~~Channel~~
 
 #### Image design details:
-- Banner_635x150.jpg
-  - Graphic colors:
-    - #65739C
-    - #DBE3F0
-    - #FFFFFF
-    - #000000
-  - Font:
-    - Colors:
-      - #FFFFFF
-      - #000000
-    - Font-family:
-- RockinDuke_180x154.jpg:
-  - Graphic colors:
-    - #C4DDEB
-    - #FC4446
-    - #000000
-    - #FFFFFF
-  - Font:
-    - Color: #000000
-    - Font-family:

@@ -23,12 +23,11 @@ Other Code of Conduct(s): N/A
 
 #### Image design details:
 #### Image design details:
-- Logo_400x400.png:
+- Logo_270x270.png:
   - Background color: #FFFFFF
   - Graphic colors:
-    - #3166F4
-    - #1840CC
-    - #000000
+    - #0D1F34
+    - #00001C
   - Font:
-    - Color: #000000
-    - Font-family:
+    - Font-family: [Acier BAT Text Noir](https://typekit.com/fonts/acier-bat/details/acier-bat-text-noir)
+  - Artist credit: [@avasond](https://twitter.com/avasond)
