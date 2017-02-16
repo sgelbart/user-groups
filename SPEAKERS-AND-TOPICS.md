@@ -12,8 +12,6 @@ or topics for which you intend to keep up-to-date slide decks.
 
 ## Topics, Speaker
 
-* Productive Programmer, Luke Crouch
-  * An overview of [The Productive Programmer book](http://shop.oreilly.com/product/9780596519544.do) by Neal Ford
 * Scary JavaScript (and other tech) that tracks you online, Luke Crouch
   * There are over 5,000 online trackers that use cookies, fingerprinting, and probablistic device matching to follow you across the web. Some methods are actively used for fraud, malware, and intrusive user tracking. Some are commonly used for legit purposes. We'll talk about how sites are able to follow users, tracking methods both fair and foul, and how users & developers can protect themselves from tracking.
 * Crypto: 500 BC - Present, Luke Crouch
