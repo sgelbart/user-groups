@@ -18,6 +18,8 @@ or topics for which you intend to keep up-to-date slide decks.
   * There are over 5,000 online trackers that use cookies, fingerprinting, and probablistic device matching to follow you across the web. Some methods are actively used for fraud, malware, and intrusive user tracking. Some are commonly used for legit purposes. We'll talk about how sites are able to follow users, tracking methods both fair and foul, and how users & developers can protect themselves from tracking.
 * Crypto: 500 BC - Present, Luke Crouch
   * A 60-minute overview of The Code Book by Simon Singh, covering secrecy from ancient Greece to quantum cryptography. This is a cursory, high-level, mostly-non-mathematical survey of centuries of crypto - good as an intro to crypto for developers and non-devs alike.
+* Top 5 Web Security Errors & Warnings we see from Firefox, and how to fix them, Luke Crouch
+  * The most common security errors & warnings that developers see in the Firefox console are not that hard to fix. This talk covers what they are, why they are dangerous, and how to fix them.
 * An Introduction to Microcontrollers, Jonathan Bartlett
   * An introduction to the world of microcontrollers, what they do, and why we should care, focusing on the world of Arduino.  This is for groups who are generally unfamiliar with the embedded world and want to know more.  Flexible time, and can do versions of this talk that include more or less technical information about programming microcontrollers and/or the basics of electronics.
 * Building Scalable Web Applications Using the Cloud, Jonathan Bartlett
