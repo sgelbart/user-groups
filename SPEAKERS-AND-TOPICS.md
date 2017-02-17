@@ -46,9 +46,10 @@ or topics for which you intend to keep up-to-date slide decks.
   * The great Martin Fowler once wrote an article outlining why Anemic Domain Models are bad.  But what he was talking about was different than the Anemia we have today.  This talk outlines what Anemia means today, and why it is absolutely necessary in Service Oriented Architecture.
 * Advanced Regex in C# Flavor, Suamere
   * This is a fun talk, if that's what you're into, about Regular Expressions in C#;  When to use them, How to use them, and some things C# Regex can do that no other Regex flavor can do.
-
+* XSS Attacks - Stop 'em In Their Tracks!, Joshua Walcher 
+  * What XSS attacks are and how to test your website and protect it from XSS Attacks. 
+  
 ## Speaker, Bio
-
 * Luke Crouch (contact: luke dot crouch at gmail dot com)
   * Web Developer for @mozilla, co-founder of @codesyio, collaborator on @tulsawebdevs, @codefortulsa, and @techlahoma; husband, dad; crossfit, homebrew, soccer fan
 * Jonathan Bartlett
@@ -57,3 +58,5 @@ or topics for which you intend to keep up-to-date slide decks.
   * Usually Independent Contractor, currently Enterprise Architect at Trevo, LLC.  Nerd since birth, Programmer for 20+ Years.  Purveyor of Principles.
 * Carmen Long (twitter: @carmalou)
   * Carmen is a JavaScript developer with experience in Angular, Ionic, and Electron. By day she writes desktop apps with Electron, and by night she builds twitterbots and plays board games. Carmen is a frequent speaker at OKC.js and runs the Nerdy Girls codeClub.
+* Joshua Walcher (twitter: @josh_walcher)
+  * Full Stack Web Developer for Public Strategies, e-commerce and stock market specialist, PHP and JavaScript user
