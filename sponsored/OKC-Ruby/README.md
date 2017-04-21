@@ -1,4 +1,4 @@
-Group email: team@okcruby.org
+Group email: team at okcruby dot org
 
 Other Code of Conduct(s): [Burlington Ruby](http://burlingtonruby.com/conduct.html)
 

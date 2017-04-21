@@ -1,4 +1,4 @@
-**Group email:** okcfp@techlahoma.org
+**Group email:** okcfp at techlahoma dot org
 
 Other Code of Conduct(s): N/A
 

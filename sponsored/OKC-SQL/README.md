@@ -1,4 +1,4 @@
-Group email: president@okcsql.org
+Group email: president at okcsql dot org
 
 Other Code of Conduct(s): N/A 
 

@@ -1,4 +1,4 @@
-**Group email:** matt@okcsharp.net
+**Group email:** matt at okcsharp dot net
 
 Other Code of Conduct(s): N/A
 

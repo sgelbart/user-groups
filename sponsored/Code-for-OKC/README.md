@@ -1,4 +1,4 @@
-**Group email:** codeforokc@gmail.com
+**Group email:** codeforokc at gmail dot com
 
 **Other Code of Conduct(s):** [Code for America](https://github.com/codeforokc/codeofconduct) 
 

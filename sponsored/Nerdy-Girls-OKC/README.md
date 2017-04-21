@@ -1,4 +1,4 @@
-**Group email:** ofi@nerdy-girls.org
+**Group email:** ofi at nerdy-girls dot org
 
 **Other Code of Conduct(s):** [Nerdy Girls - Nerdiquette](http://nerdy-girls.org/nerdiquette/) 
 

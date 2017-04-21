@@ -1,4 +1,4 @@
-Group email: captains@codefortulsa.org
+Group email: captains at codefortulsa dot org
 
 Other Code of Conduct(s): [Code for America](https://github.com/codefortulsa/codeofconduct/blob/master/README.md) 
 

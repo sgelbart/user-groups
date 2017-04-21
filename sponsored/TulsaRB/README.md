@@ -1,4 +1,4 @@
-Group email: info@tulsarb.org, *it forwards to Wassim Metallaoui*
+Group email: info at tulsarb dot org, *it forwards to Wassim Metallaoui*
 
 Other Code of Conduct(s): N/A
 

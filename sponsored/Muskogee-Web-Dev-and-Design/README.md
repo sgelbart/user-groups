@@ -1,4 +1,4 @@
-Group email: muskogee.webdev@gmail.com
+Group email: muskogee dot webdev at gmail dot com
 
 Other Code of Conduct(s): N/A 
 

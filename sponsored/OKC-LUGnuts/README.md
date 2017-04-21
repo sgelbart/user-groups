@@ -1,4 +1,4 @@
-**Group email:** okclugnuts@gmail.com
+**Group email:** okclugnuts at gmail dot com
 
 Other Code of Conduct(s): N/A
 
