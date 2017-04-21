@@ -16,6 +16,7 @@ Other Code of Conduct(s): [Code for America](https://github.com/codefortulsa/cod
     - ~~Google group~~
     - ~~LinkedIn group~~
     - ~~Tumblr~~
+    - ~~Twitch~~
     - [Twitter](https://twitter.com/CodeForTulsa)
     - Youtube:
       - ~~Account~~

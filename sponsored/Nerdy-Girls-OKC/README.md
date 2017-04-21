@@ -16,6 +16,7 @@
     - ~~Google group~~
     - ~~LinkedIn group~~
     - ~~Tumblr~~
+    - ~~Twitch~~
     - [Twitter](https://twitter.com/nerdygirlsokc)
     - Youtube:
       - ~~Account~~

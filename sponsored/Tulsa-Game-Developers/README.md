@@ -16,6 +16,7 @@ Other Code of Conduct(s): N/A
     - ~~Google group~~
     - ~~LinkedIn group~~
     - [Tumblr](https://tulsagamedevs.tumblr.com)
+    - ~~Twitch~~
     - [Twitter](https://twitter.com/TulsaGameDevs)
     - Youtube:
       - ~~Account~~

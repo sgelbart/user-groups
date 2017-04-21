@@ -16,6 +16,7 @@ Other Code of Conduct(s): N/A
     - ~~Google group~~
     - [LinkedIn group]( https://www.linkedin.com/groups/4064077/profile)
     - ~~Tumblr~~
+    - ~~Twitch~~
     - [Twitter](https://twitter.com/tulsawebdevs)
     - Youtube:
       - ~~Account~~
