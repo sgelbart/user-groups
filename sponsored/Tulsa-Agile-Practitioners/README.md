@@ -3,7 +3,7 @@
 Other Code of Conduct(s): N/A 
 
 #### Urls:
-  - Event hub: [Meetup](hhttps://www.meetup.com/TulsaAgilePractitioners/)
+  - Event hub: [Meetup](https://www.meetup.com/TulsaAgilePractitioners/)
   - ~~Website~~
   - Social media:
     - Facebook:
