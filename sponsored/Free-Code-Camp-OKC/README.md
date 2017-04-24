@@ -40,3 +40,8 @@ Other Code of Conduct(s): N/A
   - Graphic colors:
     - #FFB476
     - #FB8756
+- fccokc_270x270.png
+  - Background color: #A4755F
+  - Font:
+    - Colors: #FFFFFF
+    - Font-Family: [saxMono](http://www.dafont.com/saxmono.font)
