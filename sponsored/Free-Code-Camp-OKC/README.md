@@ -1,4 +1,4 @@
-**Group email:** 
+**Group email:** freecodecampokc at gmail dot com
 
 Other Code of Conduct(s): N/A 
 
