@@ -20,6 +20,8 @@ or topics for which you intend to keep up-to-date slide decks.
   * The most common security errors & warnings that developers see in the Firefox console are not that hard to fix. This talk covers what they are, why they are dangerous, and how to fix them.
 * Work on Stuff that Matters, Luke Crouch
   * My story with Code for Tulsa began with these words from Tim O'Reilly at OSCON 2008. This talk summarizes the Code for Tulsa story from its inception in 2012 thru 2017 - the problems we've tackled, the events we've organized, and the apps we've built. Our hope is that our story will inspire coders and non-coders alike to get involved with - or start - a local civic technology group.
+* Does your code work in Tor?, Luke Crouch
+  * Tor is an open network and web browser designed to protect privacy. Millions of people connect with Tor every day. Is your code ready for them? This talk gives an overview of what Tor is, how it works, and how you can make sure your web code works well for its privacy-conscious user-base.
 * An Introduction to Microcontrollers, Jonathan Bartlett
   * An introduction to the world of microcontrollers, what they do, and why we should care, focusing on the world of Arduino.  This is for groups who are generally unfamiliar with the embedded world and want to know more.  Flexible time, and can do versions of this talk that include more or less technical information about programming microcontrollers and/or the basics of electronics.
 * Building Scalable Web Applications Using the Cloud, Jonathan Bartlett
