@@ -1,14 +1,14 @@
-Group email: mike at okcmysql dot org
+Group email: mike at okc dash osdb dot org
 
 Other Code of Conduct(s): N/A
 
 #### Urls:
-  - Event hub: [Meetup](http://www.meetup.com/Oklahoma-City-MySQL-Meetup/)
-  - Website: [okcmysql.org](http://okcmysql.org/)
+  - Event hub: [Meetup](https://www.meetup.com/Oklahoma-City-Open-Source-Database-Meetup/)
+  - Website: [okc-osdb.org](http://okc-osdb.org/)
   - Social media:
     - Facebook:
       - ~~Group~~
-      - [Page](https://www.facebook.com/okcmysql)
+      - [Page](https://www.facebook.com/okcopensourcedb)
     - G+:
       - ~~Community~~
       - ~~Organization page~~
@@ -17,18 +17,17 @@ Other Code of Conduct(s): N/A
     - ~~LinkedIn group~~
     - ~~Tumblr~~
     - ~~Twitch~~
-    - [Twitter](https://twitter.com/okcmysql)
+    - [Twitter](https://twitter.com/okcopensourcedb/)
     - Youtube
       - ~~Account~~
       - ~~Channel~~
 
 #### Image design details:
-- Logo_180x96.jpeg
+- Logo_1077x476.jpeg
   - Background color: transparent
   - Graphic colors:
-    - #0B7B90
-    - #000000
-    - #E65B10
+    - #666666
+    - #1A374F
   - Font:
-    - Color: #E65B10
+    - Color: #FFFFFF
     - Font-family:
