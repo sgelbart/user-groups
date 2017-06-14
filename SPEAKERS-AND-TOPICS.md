@@ -52,6 +52,16 @@ or topics for which you intend to keep up-to-date slide decks.
   * This is a fun talk, if that's what you're into, about Regular Expressions in C#;  When to use them, How to use them, and some things C# Regex can do that no other Regex flavor can do.
 * XSS Attacks - Stop 'em In Their Tracks!, Joshua Walcher 
   * What XSS attacks are and how to test your website and protect it from XSS Attacks. 
+* Meteor - The Holy Grail of Full Stack Development, Sabrina Leggett (formerly Gelbart)
+  * Write real time apps the awesome way with one language on the front and backend. Enjoy being up and running with almost zero configuration, with packages that just work on both the server and the client. Too good to be true? I think not.
+* Slimming Down your Backend - Endpoint patterns for a sexy REST API, Sabrina Leggett
+  * In this talk I'll go over how to easily create beautiful, useable, functional, secure endpoints. As a Laravel developer, until I saw FireBase, I'd only seen REST endpoints created by adding tons of boilerplate code, and on top of that developers had to create their own conventions for each one. Then I saw FireBase, and there it was -- endpoints created practically on the fly. So, as backend MVC developers, what can we learn from FireBase and other frameworks and how can we add onto it to make it work within our current requirements and workflow?
+* Lessons from Wordpress - The Good The Bad & the Ugly, Sabrina Leggett
+  * A talk for for people who like Wordpress or people who don't. What Wordpress really is, why some people hate it, what you can learn from it, and why it's not going away any time soon.
+* Javascript Apps are Overrated,  Sabrina Leggett
+  * Should you convert your whole front-end to be in React? Maybe, but listen to this talk first. I'll go over the advantages of keeping your app rendered on the server side, and solutions to common problems other than having to migrate.
+
+
   
 ## Speaker, Bio
 * Luke Crouch (contact: luke dot crouch at gmail dot com)
@@ -64,3 +74,5 @@ or topics for which you intend to keep up-to-date slide decks.
   * Carmen is a JavaScript developer with experience in Angular, Ionic, and Electron. By day she writes desktop apps with Electron, and by night she builds twitterbots and plays board games. Carmen is a frequent speaker at OKC.js and runs the Nerdy Girls codeClub.
 * Joshua Walcher (twitter: @josh_walcher)
   * Full Stack Web Developer for Public Strategies, e-commerce and stock market specialist, PHP and JavaScript user
+* Sabrina Leggett - formerly Sabrina Gelbart (twitter: @sabrina_leggett)
+  * Full Stack Web Developer & Designer (aka Unicorn) at The Agate Group. Teacher at Learn To Code OK. Co-founder of Muskogee Web Devs. Topics I know about (in order): Laravel, Web Design, Wordpress, Educational Design, Meteor, Unity, Ruby on Rails. From California, also lived in Tel Aviv, Israel and Bozeman, Montana. Currently living on our ranch in Muskogee. In my free time I teach, farm, and do CrossFit.
